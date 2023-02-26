@@ -1,0 +1,9 @@
+.header__lang-switch {
+    align-self: flex-end;
+}
+
+@media screen and (max-width: 500px) {
+    .header__lang-switch {
+      padding-bottom: 8px;
+    }
+}
