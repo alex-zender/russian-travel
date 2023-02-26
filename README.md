@@ -23,6 +23,6 @@
 * адаптивная вёрстка
 * transition
 
-### *Ссылка на макет в GitHub Pages:*
+### *Ссылка на макет в GitHub Pages:* https://alex-zender.github.io/russian-travel/
 
 #### *Приятного просмотра!*
